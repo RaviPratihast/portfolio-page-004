@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-portfolio{
+    min-height: 100vh;
+    max-height: 100vw;
+}
+
